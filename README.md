@@ -1,6 +1,6 @@
 # ESP32 Custom Bootloader Project
 
-## Table of Contents
+<!-- ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
 3. [Prerequisites](#prerequisites)
@@ -10,7 +10,7 @@
 7. [Customization and Further Development](#customization-and-further-development)
 8. [Advanced Topics](#advanced-topics)
 9. [Troubleshooting](#troubleshooting)
-10. [Resources](#resources)
+10. [Resources](#resources) -->
 
 ## Introduction
 
@@ -33,7 +33,7 @@ To use this project, you need:
 - A compatible ESP32 development board
 - USB cable for connecting the ESP32 to your computer
 
-## Project Structure
+<!-- ## Project Structure
 
 ```
 esp32_bootloader/
@@ -46,7 +46,7 @@ esp32_bootloader/
 ├── partitions.csv
 ├── sdkconfig
 └── README.md
-```
+``` -->
 
 - `bootloader_main.c`: The main entry point for the bootloader
 - `bootloader_utility.c`: Contains utility functions for bootloader operations

@@ -6,8 +6,8 @@
 #include "esp_chip_info.h"
 #include <stdbool.h>
 
-#define APP_START_ADDRESS 0x10000  // Example start address for the main application
-#define APP_SIZE 0x100000          // Example size of the application (1MB)
+#define APP_START_ADDRESS 0x10000  // start address for the main application
+#define APP_SIZE 0x100000          // size of the application (1MB)
 
 static const char *TAG = "BOOTLOADER";
 

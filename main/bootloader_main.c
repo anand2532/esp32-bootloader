@@ -17,7 +17,7 @@ void app_main(void)
     } else {
         printf("No valid application found. Halting.\n");
         while(1) {
-            // Infinite loop - in a real bootloader, you might implement
+            // Infinite loop - in a real bootloader, might implement
             // recovery logic or wait for a new application to be flashed
         }
     }
